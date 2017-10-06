@@ -1,0 +1,85 @@
+================================================================================
+                                     README
+================================================================================
+
+
+
+================================= GENERAL INFO =================================
+
+
+  Project: MyFind
+  Contributors: forget_c
+  License: GNU General Public License v3.0
+  Version: v1.0
+  Date: 10-06-17
+
+
+  Epita 2019 - ING 1
+
+
+===================================== GOAL =====================================
+
+
+  myfind is a simplified version of find(1)
+
+
+===================================== USAGE ====================================
+
+
+To compile the project to get the binary file: 'make or make all'
+To clean the project: 'make clean'
+To launch the test suite: 'make check'
+
+
+===================================== TREE =====================================
+
+        .
+        ├── AUTHORS
+        ├── include
+        │   ├── libstring.h
+        │   ├── myfind.h
+        │   └── tree.h
+        ├── Makefile
+        ├── README
+        ├── src
+        │   ├── libstring
+        │   │   ├── stcmp.c
+        │   │   ├── strcat.c
+        │   │   ├── strcpy.c
+        │   │   └── strlen.c
+        │   ├── ls.c
+        │   ├── myfind.c
+        │   └── tree
+        │       └── init.c
+        ├── subject.pdf
+        └── test.sh
+
+
+=================================== CHANGELOG ==================================
+
+  [REVIEW][MYFIND] Clean code
+  add TODO README
+  correct coding style tree
+  correct coding style libstring
+  correct coding style src
+  correct coding style header
+  correct warning
+  add exec and exec dir
+  exec mid
+  add print
+  add check and not
+  error first file
+  Threshold 3 5
+  add flag error expr
+  add type
+  add name flag
+  correct demantor
+  (tag: refs/tags/dementor) correct error
+  add expression
+  correct leaks
+  add check function
+  Threshold 1
+  strcat
+  add Makefile Authors Readme Todo src
+
+
